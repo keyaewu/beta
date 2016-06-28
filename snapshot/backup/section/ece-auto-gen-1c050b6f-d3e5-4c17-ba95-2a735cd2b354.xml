@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="config.default.section.international.im" source="ece-auto-gen" sourceid="1c050b6f-d3e5-4c17-ba95-2a735cd2b354" name="ss" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="2fe5c48d-4a98-46e2-a037-a6da2142091e" unique-name="config.default.section.international"/>
+        <unique-name>config.default.section.international.im</unique-name>
+        <directory>config_default_section_international_im</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
