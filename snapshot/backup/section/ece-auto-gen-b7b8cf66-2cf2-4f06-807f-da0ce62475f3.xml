@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escenic version="2.0" xmlns="http://xmlns.escenic.com/2009/import">
+    <section unique-name="overlay.sir.config.default.section.about" source="ece-auto-gen" sourceid="b7b8cf66-2cf2-4f06-807f-da0ce62475f3" name="&lt;sir&gt; About WF3 page template" mirror-source="false">
+        <parent source="ece-auto-gen" sourceid="73fc0177-5f6f-44d2-b048-d79098f59f0c" unique-name="config.default.section.about"/>
+        <unique-name>overlay.sir.config.default.section.about</unique-name>
+        <directory>overlay_sir_config_default_section_about</directory>
+        <section-layout>defaultsection</section-layout>
+        <article-layout>defaultarticle</article-layout>
+    </section>
+</escenic>
